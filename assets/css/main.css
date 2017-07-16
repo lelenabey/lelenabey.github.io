@@ -1651,7 +1651,7 @@
 			transition-delay: 2.525s;
 			height: calc(40vh - 2em);
 			min-height: 20em;
-			width: 25%;
+			width: 33.333333%;
 		}
 
 			#main .thumb:nth-child(1) {
